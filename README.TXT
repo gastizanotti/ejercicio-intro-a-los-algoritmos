@@ -4,11 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE: estadisticas-temperaturas
-PURPOSE OF PROJECT: Proyecto ilustrativo de uso de for-each, sobre una
-colección que representa una lista de mediciones de temperaturas de
-una estación meteorológica.
-VERSION or DATE: 9/4/2024
+PROJECT TITLE: Fechas
+PURPOSE OF PROJECT: Implementación de funcionalidades sobre fechas calendarias.
+VERSION or DATE: 0.1
 HOW TO START THIS PROJECT: -
 AUTHORS: N. Aguirre
-USER INSTRUCTIONS:
+USER INSTRUCTIONS: -
